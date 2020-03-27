@@ -8,7 +8,7 @@
 
 .content {
   text-align: center;
-  color: green;
+  color: red;
   width: 69vw;
   height: 69vh;
   margin: auto;
@@ -34,7 +34,7 @@
 
 #stock-ticker {
   font-size: 3em;
-  background-color: green;
+  background-color: red;
   color: white;
   padding: 8px 24px;
   border-radius: 5px;

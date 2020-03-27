@@ -10,9 +10,9 @@ class App extends Component {
           <h2 className="logo scale">Viridity Trading, LLC</h2>
           <div id="stock-info">
             <span id="stock-ticker" className="scale">SPY</span>
-            <span id="stock-price" className="scale">300.00</span>
+            <span id="stock-price" className="scale">200.00</span>
           </div>
-          <p id="comment" className="scale">Buy puts after the EOD surge on Friday</p>
+          <p id="comment" className="scale">Hold onto your puts, they will print very soon</p>
         </div>
       </div>
     );
